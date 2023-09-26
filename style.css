@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+.otp p{
+    font-size: 40px;
+    margin-left: 2cm;
+    margin-top: 2cm;
+}
+.otp input{
+    width: 3cm;
+    height: 0.7cm;
+    margin-left: 2cm;
+    margin-top: 0.5cm;
+}
+.start button{
+    margin-top: 3cm;
+    margin-left: 6cm;
+    background-color: red;
+    width: 4cm;
+    height: 1cm;
+
+}
